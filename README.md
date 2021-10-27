@@ -1,6 +1,6 @@
-# malve-UI-storybook
+# Malve-UI-storybook
 
-## Getting Started
+## Getting Started ====
 
 First, run the development server:
 
